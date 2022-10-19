@@ -2,6 +2,8 @@
 set -x
 set -euo pipefail
 
+# don't think this really works
+
 arch="${1}"
 shift
 
